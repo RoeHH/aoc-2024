@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "run": {
+      "description": "Run a Day",
+      "command": "deno run --allow-all main.ts"
+    }
+  }
+}
