@@ -54,4 +54,7 @@ initializeTests(DAY, {
 3   3`,
     expected: 31,
   },
+  part2: {
+    expected: 24869388,
+  },
 });
